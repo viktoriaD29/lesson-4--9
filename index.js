@@ -5,8 +5,8 @@ for (let i = 0; i <= 1000; i++) {
 }
 
 let x = sum / 1234;
-let b = Math.trunc(x);
+/*let b = Math.trunc(x);*/
 let y = x % 2;
 
-let c = b > y;
+let c = sum > y;
 console.log(c);
