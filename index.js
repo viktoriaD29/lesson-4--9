@@ -9,5 +9,5 @@ let y = x % 2;
 let b = x - y;
 
 
-let c = b >= y;
+let c = b < y;
 console.log(c);
