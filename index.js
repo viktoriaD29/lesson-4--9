@@ -7,8 +7,8 @@ let x = sum / 1234;
 let y = x % 2 === 0;
 let b = Math.trunc(sum / 1234);
 
-/*let c = a > b;
-console.log(y);*/
+/*let c = b > y;
+console.log(c);*/
 
 if (b > y) {
   console.log(true);
