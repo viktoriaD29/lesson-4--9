@@ -8,5 +8,5 @@ let x = sum / 1234;
 /*let b = Math.trunc(x);*/
 let y = x % 2;
 
-let c = sum > y;
+let c = x > y;
 console.log(c);
